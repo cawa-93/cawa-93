@@ -1,4 +1,11 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+> [!NOTE]
+> This is profile of **open-source developer from Ukraine** 🇺🇦.
+> 
+> Due to the ongoing war resulting from Russia's full-scale invasion of Ukraine, I currently lack the time for the full development of my open-source projects. My primary focus is on ensuring the well-being of myself and my family.
+>
+> If you can, please consider [supporting Ukraine](https://stand-with-ukraine.pp.ua/) or [me personally](https://www.buymeacoffee.com/kozack). 
+>
+> Thank you for your understanding and support.
 <!--
 **cawa-93/cawa-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
