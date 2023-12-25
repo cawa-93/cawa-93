@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is profile of **open-source developer from Ukraine** 🇺🇦.
+> This is profile of **open-source developer from Ukraine** 🇺🇦
 > 
 > Due to the ongoing war resulting from Russia's full-scale invasion of Ukraine, I currently lack the time for the full development of my open-source projects. My primary focus is on ensuring the well-being of myself and my family.
 >
